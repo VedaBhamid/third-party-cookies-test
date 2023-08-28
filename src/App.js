@@ -4,7 +4,7 @@ import { ReactKeycloakProvider } from "@react-keycloak/web";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Nav from "./components/Nav";
 import WelcomePage from "./pages/Homepage";
-import SecuredPage from './pages/SecuredPage';
+import SecuredPage from './pages/Securedpage';
 import PrivateRoute from "./helpers/PrivateRoute";
 
 function App() {
